@@ -1,0 +1,28 @@
+{
+  "name": "on-this-day-scraper-js",
+  "version": "1.0.0",
+  "description": "Scraps events, births and deaths that occured during any day of history.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sasalatart/on-this-day-scraper-js"
+  },
+  "keywords": [
+    "scraper",
+    "wikipedia",
+    "history"
+  ],
+  "author": "Sebastián Salata Ruiz-Tagle <SA.SalataRT@GMail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sasalatart/on-this-day-scraper-js/issues"
+  },
+  "homepage": "https://github.com/sasalatart/on-this-day-scraper-js#readme",
+  "devDependencies": {
+    "eslint-config-airbnb-base": "^11.2.0",
+    "eslint-plugin-import": "^2.3.0"
+  }
+}
