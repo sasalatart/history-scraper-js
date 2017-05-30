@@ -22,7 +22,13 @@
   },
   "homepage": "https://github.com/sasalatart/on-this-day-scraper-js#readme",
   "devDependencies": {
+    "eslint": "^3.19.0",
     "eslint-config-airbnb-base": "^11.2.0",
     "eslint-plugin-import": "^2.3.0"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.1",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1"
   }
 }
