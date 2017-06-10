@@ -1,6 +1,6 @@
 {
   "name": "on-this-day-scraper",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "Scraps events, births and deaths that occured during any day of history.",
   "main": "index.js",
   "scripts": {
