@@ -1,6 +1,6 @@
 {
   "name": "history-scraper",
-  "version": "2.0.3",
+  "version": "3.0.0",
   "description": "Scraps events, births and deaths that occured during any day of history.",
   "main": "index.js",
   "scripts": {
